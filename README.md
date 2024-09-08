@@ -1,22 +1,11 @@
-<br clear="both">
-
 <h2 align="left">Hi 👋! My name is Manish.</h2>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manish-pandey413&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true&custom_title=Github%20Stats" height="160" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manish-pandey413&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=gruvbox&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-###
-
 <h2 align="left">💻  Tech Stack:</h2>
-
-###
-
-<br clear="both">
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" alt="cplusplus logo"  />
   <img width="5" />
@@ -31,15 +20,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32" alt="linkedin logo"  />
 </div>
 
-###
 
 <br clear="both">
 
 <img align="left" height="140" src="https://media1.tenor.com/m/Xf_PZVtHpSgAAAAC/anime-typing.gif"  />
 
-###
 
-<div align="left">
+<div align="center">
   <a href="https://discord.com/oleum_666" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="discord logo"  />
   </a>
@@ -53,6 +40,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/manish-pandey413/manish-pandey413/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/manish-pandey413/manish-pandey413/output/snake.svg" alt="Snake animation" />
 
 ###
