@@ -8,15 +8,15 @@
 <h2 align="left">💻  Tech Stack:</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" alt="cplusplus logo"  />
-  <img width="5" />
+  <img width="3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python logo"  />
-  <img width="5" />
+  <img width="3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="32" alt="lua logo"  />
-  <img width="5" />
+  <img width="3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="linux logo"  />
-  <img width="5" />
+  <img width="3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="git logo"  />
-  <img width="5" />
+  <img width="3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32" alt="linkedin logo"  />
 </div>
 
