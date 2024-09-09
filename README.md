@@ -3,8 +3,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manish-pandey413&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true&custom_title=Github%20Stats" height="160" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manish-pandey413&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=gruvbox&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://leetcard.jacoblin.cool/_Manish_Pandey_?theme=dark&font=Coda&ext=heatmap" height="200" alt="stats graph"  />
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/_Manish_Pandey_?theme=dark&font=Coda&ext=heatmap)
 </div>
 
 
