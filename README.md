@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Manish.</h2>
+<h2 align="left">Hi 👋! I'm Manish.</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manish-pandey413&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true&custom_title=Github%20Stats" height="180" alt="stats graph"  />
