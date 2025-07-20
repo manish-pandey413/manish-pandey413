@@ -42,7 +42,7 @@
   </a>
     <img width="3" />
     <a href="https://leetcode.com/u/_Manish_Pandey_/" target="_blank">
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblogs-hots-files.s3.amazonaws.com%2Fimages%2F2021%2F07%2Fleetcode_button_icon_151892.png&f=1&nofb=1&ipt=36b13bcc8db2a0f608e185fea732038fe902df3c0a2d111cc02f0beed8590a40&ipo=images" height="45" alt="leetcode logo"  />
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblogs-hots-files.s3.amazonaws.com%2Fimages%2F2021%2F07%2Fleetcode_button_icon_151892.png&f=1&nofb=1&ipt=36b13bcc8db2a0f608e185fea732038fe902df3c0a2d111cc02f0beed8590a40&ipo=images" height="28" alt="leetcode logo"  />
   </a>
     <img width="3" />
   <a href="mailto:manishpandey0.connect@gmail.com" target="_blank">
@@ -50,7 +50,7 @@
   </a>
     <img width="3" />
   <a href="https://www.codechef.com/users/d3f4ult/" target="_blank">
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2530%2FPNG%2F512%2Fcodechef_button_icon_151902.png&f=1&nofb=1&ipt=341bab666a5220246adad0d080287196e7f0c148de475308c1f1d8a7a6214d33&ipo=images" height="45" alt="codechef logo"  />
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2530%2FPNG%2F512%2Fcodechef_button_icon_151902.png&f=1&nofb=1&ipt=341bab666a5220246adad0d080287196e7f0c148de475308c1f1d8a7a6214d33&ipo=images" height="28" alt="codechef logo"  />
   </a>
   <a href="https://discord.com/users/918382617584349194/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="discord logo"  />
