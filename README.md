@@ -1,12 +1,12 @@
 <h2 align="left">Hi 👋! I'm Manish.</h2>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=manish-pandey413&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true" height="180" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manish-pandey413&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=gruvbox&hide_border=true" height="180" alt="languages graph"  />
-  </div>
+   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=tokyonight&fontFamily=Victor%20Mono&preferLogin=false&Points.ContributedToNotOwnerRepositories=10.3">    <img  alt="manish-pandey413's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/manish-pandey413?cardType=level-alternate&theme=tokyonight&fontFamily=Ubuntu&preferLogin=false&Points.ContributedToNotOwnerRepositories=10.3" />  </a>
+        <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=manish-pandey413&type=languages&theme=tokyonight&chart=bars" width="500" alt="GitHub Stats" />
 
 
-<h2 align="left">💻  Tech Stack and Technologies:</h2>
+
+<h2 align="left">Tech Stack and Technologies:</h2>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=go" height="30" alt="go logo"  />
   <img width="12" />
@@ -38,8 +38,10 @@
 
 <img align="left" height="140" src="https://media1.tenor.com/m/Xf_PZVtHpSgAAAAC/anime-typing.gif"  />
 
+<br clear="both">
 
-<div align="center">
+<div align="left">
+    <h2>Let's connect:</h2>
   <a href="https://www.linkedin.com/in/manish-pandey-260aab325/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="linkedin logo"  />
   </a>
