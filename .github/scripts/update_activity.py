@@ -253,6 +253,7 @@ def format_language_percentages(language_bytes):
     ]
 
 
+
 def build_activity_section(
     user,
     repositories,
@@ -276,43 +277,17 @@ def build_activity_section(
     )
     followers = user.get("followers", 0)
 
-    lines = [
-        (
-            f"> **{public_repositories:,}** public repositories"
-            f" &nbsp;·&nbsp; **{followers:,}** followers"
-            f" &nbsp;·&nbsp; **{stars:,}** stars<br/>"
-        ),
-        (
-            f"> **{len(original_repositories):,}** original repositories"
-            f" &nbsp;·&nbsp; **{total_commits:,}** commits"
-            f" &nbsp;·&nbsp; **{total_pull_requests:,}** "
-            f"pull requests opened<br/>"
-        ),
-        (
-            "> **language mix** "
-            "<sub>(code-byte share across original public repositories)</sub>"
-            "<br/>"
-        ),
-    ]
-
     percentages = format_language_percentages(language_bytes)
 
+    # Format language names and percentages as compact code labels.
     if percentages:
-        for index in range(0, len(percentages), LANGUAGES_PER_LINE):
-            chunk = percentages[
-                index:index + LANGUAGES_PER_LINE
-            ]
-
-            language_line = " &nbsp;·&nbsp; ".join(
-                f"`{language}` {percentage:.1f}%"
-                for language, percentage in chunk
-            )
-
-            lines.append(f"> {language_line}<br/>")
+        language_details = " &nbsp;·&nbsp; ".join(
+            f"`{language}` `{percentage:.1f}%`"
+            for language, percentage in percentages
+        )
     else:
-        lines.append("> No language data available.<br/>")
+        language_details = "No language data available"
 
-    # Latest push among original public repositories.
     latest = max(
         original_repositories,
         key=lambda repo: repo.get("pushed_at") or "",
@@ -324,20 +299,35 @@ def build_activity_section(
             latest["pushed_at"].replace("Z", "+00:00")
         ).strftime("%d %b %Y")
 
-        lines.append(
-            f"> latest push · "
+        latest_details = (
             f"[{latest['name']}]({latest['html_url']})"
-            f" · {pushed}<br/>"
+            f" &nbsp;·&nbsp; `{pushed}`"
         )
+    else:
+        latest_details = "No public repository activity available"
 
     refreshed = now.strftime("%d %b %Y, %H:%M UTC")
 
-    lines.append(
-        f"> <sub>last refreshed {refreshed} · "
-        "GitHub REST + GraphQL APIs</sub>"
-    )
+    lines = [
+        "| area | details |",
+        "|:--|:--|",
+        (
+            f"| repositories | "
+            f"`{public_repositories:,}` public"
+            f" &nbsp;·&nbsp; `{len(original_repositories):,}` original"
+            f" &nbsp;·&nbsp; `{stars:,}` stars"
+            f" &nbsp;·&nbsp; `{followers:,}` followers |"
+        ),
+        (
+            f"| contributions | "
+            f"`{total_commits:,}` commits"
+            f" &nbsp;·&nbsp; `{total_pull_requests:,}` pull requests |"
+        ),
+        f"| language usage | {language_details} |",
+    ]
 
     return "\n".join(lines)
+
 
 
 def update_readme(section):
