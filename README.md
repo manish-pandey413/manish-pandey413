@@ -1,72 +1,72 @@
-<h2 align="left">Hi 👋! I'm Manish.</h2>
 
 <div align="center">
-   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=tokyonight&fontFamily=Victor%20Mono&preferLogin=false&Points.ContributedToNotOwnerRepositories=10.3">    <img  alt="manish-pandey413's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/manish-pandey413?cardType=level-alternate&theme=tokyonight&fontFamily=Ubuntu&preferLogin=false&Points.ContributedToNotOwnerRepositories=10.3" />  </a>
-        <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=manish-pandey413&type=languages&theme=tokyonight&chart=bars" width="500" alt="GitHub Stats" />
+
+  <h1>manish pandey</h1>
+
+  <p>
+    <code>backend developer</code> &nbsp; <code>problem solver</code> &nbsp;
+  </p>
+
+  <p>
+    building things , breaking things, understanding them a little better.
+  </p>
 
 
+  <a href="https://www.linkedin.com/in/manish-pandey-260aab325/">linkedin</a>
+  &nbsp;·&nbsp;
+  <a href="https://leetcode.com/u/_Manish_Pandey_/">leetcode</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.codechef.com/users/d3f4ult">codechef</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:manishpandey0.connect@gmail.com">email</a>
+  &nbsp;·&nbsp;
+  <a href="https://discord.com/users/918382617584349194">discord</a>
 
-<h2 align="left">Tech Stack and Technologies:</h2>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=go" height="30" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="postgresql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="32" alt="lua logo"  />
-  <img width="12" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32" alt="lua logo"  />
-  <img width="12" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="32" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="git logo"  />
-  <img width="12" />
 </div>
 
+### about me
 
-<br clear="both">
+- Backend engineer
+  
+- Interested in building things i like/want, writing clean code, and exploring better ways to solve problems.
 
-<img align="left" height="140" src="https://media1.tenor.com/m/Xf_PZVtHpSgAAAAC/anime-typing.gif"  />
+### the stack
 
-<br clear="both">
+| area | technologies |
+|:--|:--|
+| languages | `Go` · `TypeScript` · `C++` · `Python` · `JavaScript` · `Lua` |
+| frontend | `React` · `Next.js` · `Tailwind CSS` |
+| database | `PostgreSQL` |
+| environment | `Linux` · `Git` · `GitHub` |
 
-<div align="left">
-    <h2>Let's connect:</h2>
-  <a href="https://www.linkedin.com/in/manish-pandey-260aab325/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="linkedin logo"  />
-  </a>
-    <img width="3" />
-    <a href="https://leetcode.com/u/_Manish_Pandey_/" target="_blank">
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblogs-hots-files.s3.amazonaws.com%2Fimages%2F2021%2F07%2Fleetcode_button_icon_151892.png&f=1&nofb=1&ipt=36b13bcc8db2a0f608e185fea732038fe902df3c0a2d111cc02f0beed8590a40&ipo=images" height="28" alt="leetcode logo"  />
-  </a>
-    <img width="3" />
-  <a href="mailto:manishpandey0.connect@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="gmail logo"  />
-  </a>
-    <img width="3" />
-  <a href="https://www.codechef.com/users/d3f4ult/" target="_blank">
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2530%2FPNG%2F512%2Fcodechef_button_icon_151902.png&f=1&nofb=1&ipt=341bab666a5220246adad0d080287196e7f0c148de475308c1f1d8a7a6214d33&ipo=images" height="28" alt="codechef logo"  />
-  </a>
-  <a href="https://discord.com/users/918382617584349194/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="discord logo"  />
+
+### around the web
+
+> <span><strong>leetcode</strong><br/><a href="https://leetcode.com/u/_Manish_Pandey_/">_Manish_Pandey_ ↗</a></span>
+
+> <span><strong>codechef</strong><br/><a href="https://www.codechef.com/users/d3f4ult/">d3f4ult ↗</a></span>
+
+> <span><strong>discord</strong><br/><a href="https://discord.com/users/918382617584349194">let's connect ↗</a></span>
+
+> <span><strong>email</strong><br/><a href="mailto:manishpandey0.connect@gmail.com">say hello ↗</a></span>
+
+
+### github activity
+
+<sub>a little snapshot of my corner of GitHub · refreshed automatically</sub>
+
+<!-- GITHUB_ACTIVITY_START -->
+*Activity stats will appear here after the GitHub Actions workflow runs.*
+<!-- GITHUB_ACTIVITY_END -->
+
+
+
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/manish-pandey413/manish-pandey413/refs/heads/output/snake.svg" alt="GitHub contribution animation" />
+
+  <br/><br/>
+
+  <sub>less noise. more curiosity. better code.</sub>
+
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/manish-pandey413/manish-pandey413/refs/heads/output/snake.svg" alt="Snake animation" />
-
-###
-<br clear="both">
-
