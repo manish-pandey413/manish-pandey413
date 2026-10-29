@@ -54,11 +54,14 @@
 ### github activity
 
 <!-- GITHUB_ACTIVITY_START -->
-> **9** public repositories &nbsp;·&nbsp; **1** followers &nbsp;·&nbsp; **0** stars across public repositories
-
-> **9** original public repositories &nbsp;·&nbsp;
-
-<sub>Last refreshed: 29 Oct 2026 (UTC)</sub>
+> **9** public repositories &nbsp;·&nbsp; **1** followers &nbsp;·&nbsp; **0** stars<br/>
+> **9** original repositories &nbsp;·&nbsp; **162** commits &nbsp;·&nbsp; **0** pull requests opened<br/>
+> **language mix** <sub>(code-byte share across original public repositories)</sub><br/>
+> `C++` 81.3% &nbsp;·&nbsp; `C` 14.8% &nbsp;·&nbsp; `Java` 1.2% &nbsp;·&nbsp; `TypeScript` 1.1%<br/>
+> `Go` 0.7% &nbsp;·&nbsp; `JavaScript` 0.5% &nbsp;·&nbsp; `CMake` 0.1% &nbsp;·&nbsp; `CSS` 0.1%<br/>
+> `HTML` 0.0% &nbsp;·&nbsp; `Makefile` 0.0% &nbsp;·&nbsp; `Just` 0.0%<br/>
+> latest push · [manish-pandey413](https://github.com/manish-pandey413/manish-pandey413) · 29 Oct 2026<br/>
+> <sub>last refreshed 29 Oct 2026, 14:29 UTC · GitHub REST + GraphQL APIs</sub>
 <!-- GITHUB_ACTIVITY_END -->
 
 
