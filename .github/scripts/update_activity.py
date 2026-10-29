@@ -69,28 +69,10 @@ def main():
         f" &nbsp;·&nbsp; **{stars}** stars across public repositories",
         "",
         f"> **{len(original_repos)}** original public repositories"
-        " &nbsp;·&nbsp; **GitHub REST API**",
+        " &nbsp;·&nbsp;",
         "",
     ]
 
-    if latest and latest.get("pushed_at"):
-        pushed = datetime.fromisoformat(
-            latest["pushed_at"].replace("Z", "+00:00")
-        ).strftime("%d %b %Y")
-
-        name = latest["name"]
-        url = latest["html_url"]
-
-        lines.extend([
-            f"> Latest repository activity: [{name}]({url})",
-            f"> Last pushed on {pushed}.",
-            "",
-        ])
-    else:
-        lines.extend([
-            "> No public repository activity is available yet.",
-            "",
-        ])
 
     lines.append(f"<sub>Last refreshed: {updated} (UTC)</sub>")
 
