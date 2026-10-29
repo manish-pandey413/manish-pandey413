@@ -56,7 +56,14 @@
 <sub>a little snapshot of my corner of GitHub · refreshed automatically</sub>
 
 <!-- GITHUB_ACTIVITY_START -->
-*Activity stats will appear here after the GitHub Actions workflow runs.*
+> **9** public repositories &nbsp;·&nbsp; **1** followers &nbsp;·&nbsp; **0** stars across public repositories
+
+> **9** original public repositories &nbsp;·&nbsp; **GitHub REST API**
+
+> Latest repository activity: [manish-pandey413](https://github.com/manish-pandey413/manish-pandey413)
+> Last pushed on 29 Oct 2026.
+
+<sub>Last refreshed: 29 Oct 2026 (UTC)</sub>
 <!-- GITHUB_ACTIVITY_END -->
 
 
