@@ -53,8 +53,6 @@
 
 ### github activity
 
-<sub>a little snapshot of my corner of GitHub · refreshed automatically</sub>
-
 <!-- GITHUB_ACTIVITY_START -->
 > **9** public repositories &nbsp;·&nbsp; **1** followers &nbsp;·&nbsp; **0** stars across public repositories
 
